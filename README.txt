@@ -1,4 +1,4 @@
-# The Final Whistle — Sports Blog
+Sports Blog
 
 A simple responsive sports blog starter built with plain HTML, CSS, and JavaScript.
 
